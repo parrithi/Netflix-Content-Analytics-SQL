@@ -5,6 +5,7 @@
 ---
 ![Banner Image](https://github.com/parrithi/Netflix-Content-Analytics-SQL/blob/main/Netflix.png)
 
+---
 # 📖 Project Overview
 
 Streaming platforms generate massive volumes of content data that can be transformed into actionable business insights. This project simulates the work of a Data Analyst by exploring Netflix's movie and TV show catalog using SQL to answer real-world business questions.
